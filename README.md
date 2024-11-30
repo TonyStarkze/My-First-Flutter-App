@@ -6,6 +6,11 @@ My First Flutter App
 
 A new Flutter project.
 
+## Screenshots
+
+<img src="first_app/monitor_page.jpg" alt="Home" width="300">
+<center>Main Page</center>
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
